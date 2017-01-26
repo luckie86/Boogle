@@ -1,0 +1,95 @@
+body {
+    font-family: 'RobotoRegular', Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+#main {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boogle {
+    height: 50px;
+    width: auto;
+}
+
+.heading1 {
+    font-size: 39px;
+}
+
+.heading2 {
+    font-size: 20px;
+}
+
+.background {
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 40px 0px 20px 0px;
+    background-color: #f7f7f7;
+}
+
+.person {
+    width: 96px;
+    height: 96px;
+    margin: 0 auto 10px;
+    display: block;
+    border-radius: 50%;
+}
+
+.login, .email, .geslo {
+    width: 320px;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    position: relative;
+    font-size: 16px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+button {
+    display: block;
+    width: 320px;
+    font-weight: 400;
+    text-align: center;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+    border: 1px solid transparent;
+}
+
+.create {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: #337ab7;
+}
+
+ .footer-left a {
+   padding-top: 20px;
+   padding-right: 10px;
+   height: 5px;
+   display: block;
+   font-size: 18px;
+   text-decoration:none;
+   color: gray;
+   float: left;
+ }
+
+ .footer-left a:hover {
+   text-decoration: underline;
+ }
+
+.footer-right {
+  padding-top: 5px;
+  float: right;
+}
